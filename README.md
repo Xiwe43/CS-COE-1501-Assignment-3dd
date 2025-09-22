@@ -1,5 +1,4 @@
-# CS-COE-1501-Assignment-3-Solution
-Download Link: https://programmingsolver.com/questions-and-answers/cs-coe-1501-assignment-3-solution/
+# CS-COE-1501-Assignment-3
 
 To explore an advanced application of priority queues in order to gain a deeper understanding of the data structure.
 
@@ -74,5 +73,4 @@ These retrievals should be possible on the set of all entered cars or on the set
 *  Menu-based driver program works properly and has appropriately labeled options:  5
 *  Assignment info sheet/submission:  5
 
-*  WeChat: WeChat: **Programming Help **
-**Email:** programmingtutor1@proton.me
+Coding Help Email: 📧 xujuncoding@gmail.com
